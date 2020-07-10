@@ -1,0 +1,1 @@
+# Internship-with-Smart-methods
