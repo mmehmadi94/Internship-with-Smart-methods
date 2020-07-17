@@ -1,15 +1,17 @@
 # Creating a simple customer service chatbot using Watson Assistant
 
-With .json, we can create a Watson Assistant based chatbot that allows a user to:
+With `skill-Customer-Care-Skill.json`, we can create a Watson Assistant chatbot that allows a user to:
 
-1) makes appoiments to visit the office (date, time, phone number to confirm),
-2) find location the office,
-3) know bussiness hourse.
-4) contact with an engineer
+1) Makes appoiments to visit the office (date, time, phone number to confirm).
+2) Find location the office.
+3) Know bussiness hourse.
+4) Contact with an engineer.
 
 
 Assistant Example /demo
 Here is an example conversation
+
+![alt text](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/chatbot_IBN%20weston/output%20of%20integration%20chatbot.png)
 
 
 Here is the nodes of IBM weston to implement logic in your Dialog
@@ -17,4 +19,6 @@ Here is the nodes of IBM weston to implement logic in your Dialog
 
 
 The chatbot is integrated with robot control panel  website
-please check the link for
+please check the link below
+
+https://mmehmadi94.github.io/controlPanel.github.io/
