@@ -1,6 +1,6 @@
 # Creating a simple customer service chatbot using Watson Assistant
 
-With .json, we can create a Watson Assistant based chatbot that allows a user to:
+With `skill-Customer-Care-Skill.json`, we can create a Watson Assistant based chatbot that allows a user to:
 
 1) makes appoiments to visit the office (date, time, phone number to confirm),
 2) find location the office,
