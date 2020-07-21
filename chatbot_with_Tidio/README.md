@@ -17,6 +17,4 @@ Below is the bot structure in Tidio
 
 ![alt text](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/chatbot_with_Tidio/Bot_Tidio.png)
 
-
-[![](http://img.youtube.com/vi/WHW6SQ3W2_Y/0.jpg)](http://www.youtube.com/watch?v=WHW6SQ3W2_Y "")
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](http://www.youtube.com/watch?v=--b-9HrKK6w)
