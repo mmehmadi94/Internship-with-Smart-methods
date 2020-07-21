@@ -18,4 +18,4 @@ Below is the bot structure in Tidio
 ![alt text](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/chatbot_with_Tidio/Bot_Tidio.png)
 
 
-![alt text](https://www.youtube.com/embed/WHW6SQ3W2_Y)
+[![](http://img.youtube.com/vi/WHW6SQ3W2_Y/0.jpg)](http://www.youtube.com/watch?v=WHW6SQ3W2_Y "")
