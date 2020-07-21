@@ -19,3 +19,4 @@ Below is the bot structure in Tidio
 
 
 [![](http://img.youtube.com/vi/WHW6SQ3W2_Y/0.jpg)](http://www.youtube.com/watch?v=WHW6SQ3W2_Y "")
+[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=VID)
