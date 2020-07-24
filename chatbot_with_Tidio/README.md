@@ -8,7 +8,7 @@ We create a Tidio bot that allows the user to:
 
 ## Chatbot Demo
 
-Here is a demp for a conversation
+Here is a demo for the conversation
 
 ![alt text](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/chatbot_with_Tidio/Demo_chatbot.png)
 [![Chatbot demo](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/chatbot_with_Tidio/demoChatbot.gif)](https://youtu.be/WHW6SQ3W2_Y)
