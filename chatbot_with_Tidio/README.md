@@ -1,8 +1,8 @@
 # Creating a simple chatbot using Tidio
 
-This bot generates responses based on collections of known conversations, is build using [Tidio](https://www.tidio.com/)
+We create a bot that generates responses based on collections of known conversations, is build using [Tidio](https://www.tidio.com/).
 
-We create a Tidio bot that allows the user to:
+This bot allows the user to:
 
 1) give instructions to the Robot.
 2) Turn on / off the Robot.
