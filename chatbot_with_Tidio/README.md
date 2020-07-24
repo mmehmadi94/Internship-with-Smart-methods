@@ -15,4 +15,4 @@ Here is a demp for a conversation
 
 Below is the bot structure in Tidio 
 
-[![SC2 Video](doc/SC2_youtube.PNG)](https://www.youtube.com/watch?v=--b-9HrKK6w "SC2 Mini game - Click to Watch!")
+[![SC2 Video](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/chatbot_with_Tidio/Demo_chatbot.png)](https://www.youtube.com/watch?v=--b-9HrKK6w "SC2 Mini game - Click to Watch!")
