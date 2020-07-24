@@ -16,3 +16,5 @@ Here is a demp for a conversation
 
 Below is the bot structure in Tidio 
 
+![bot structures](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/chatbot_with_Tidio/Bot_Tidio.png)
+
