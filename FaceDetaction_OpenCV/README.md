@@ -21,7 +21,7 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 ![result detection face](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceDetaction_OpenCV/resultImage.png)
 
-- Detect faces in videos (either from webcam or video file)
+- Detection all faces in videos (either from webcam or video file)
 
 ![detection face from video file](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceDetaction_OpenCV/resultVideo.gif)
 
@@ -29,7 +29,8 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 ## Installation
 
 
-First of all make sure you have Python 3.3+ or Python 2.7 installed. then, install OpenCV from pypi using pip3 command (or pip2 for Python 2):
+- First of all make sure you have Python 3.3+ or Python 2.7 installed.
+- Then, install OpenCV from pypi using pip3 command (or pip2 for Python 2):
 
 ```
 pip3 install opencv-python
