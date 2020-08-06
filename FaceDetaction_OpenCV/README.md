@@ -1,4 +1,4 @@
-# Face Recognition using Haar cascades in OpenCV and Pytho
+# Face Recognition using Haar cascades in OpenCV and Python
 
 OpenCV is the most popular library for computer vision. OpenCV uses machine learning algorithms to search for faces within a picture or a video, one of them is Haar cascades. It is a machine learning object detection algorithm trained with a set of input data.
 
