@@ -29,4 +29,7 @@ Detect faces in pictures
 
 First of all make sure you have Python 3.3+ or Python 2.7 installed. then, install OpenCV from pypi using pip3 command (or pip2 for Python 2):
 
+```
 pip3 install opencv-python
+```
+
