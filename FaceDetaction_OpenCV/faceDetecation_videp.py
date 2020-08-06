@@ -7,7 +7,7 @@ face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_fronta
 cap = cv2.VideoCapture(0)
 
 # To use a video file as input
-#cap = cv2.VideoCapture('testVideo.mp4')
+#cap = cv2.VideoCapture('FileName.mp4')
 
 while True:
     # Read the frame
