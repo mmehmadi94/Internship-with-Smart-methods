@@ -5,12 +5,15 @@ OpenCV is the most popular library for computer vision. OpenCV uses machine lear
 
 You don't need to download the trained classifier XML file (haarcascade_frontalface_default.xml), which is available in OpenCv’s GitHub repository. You can use a property given by cv2 to import the haarcascade
 
+```
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
-
+```
 
 Important note to know, the detection works only on grayscale images. So it needs to convert image/video to grayscale before detection faces.
 
+```
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+```
 
 
 ## Features
