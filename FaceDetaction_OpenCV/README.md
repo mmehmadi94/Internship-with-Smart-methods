@@ -24,7 +24,7 @@ Detect faces in pictures
 
 - Detect faces in videos (either from webcam or video file)
 
-[![https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceDetaction_OpenCV/resultVideo.gif)](https://youtu.be/WHW6SQ3W2_Y)
+[![https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceDetaction_OpenCV/resultVideo.gif)]()
 
 
 ## Online Demos
