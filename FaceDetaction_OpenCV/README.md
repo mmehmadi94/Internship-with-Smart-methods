@@ -17,8 +17,7 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 
 ## Features
-- Detect faces in pictures
-Find all the faces that appear in a picture:
+- Detection all faces in pictures
 
 ![result detection face](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceDetaction_OpenCV/resultImage.png)
 
