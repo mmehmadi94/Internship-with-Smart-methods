@@ -19,11 +19,11 @@ gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 ## Features
 - Detection all faces in pictures
 
-![result detection face](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceDetaction_OpenCV/resultImage.png)
+![result detection face](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceRecognition_openCv/resultImage.png)
 
 - Detection all faces in videos (either from webcam or video file)
 
-![detection face from video file](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceDetaction_OpenCV/resultVideo.gif)
+![detection face from video file](https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceRecognition_openCv/resultVideo.gif)
 
 
 ## Installation
