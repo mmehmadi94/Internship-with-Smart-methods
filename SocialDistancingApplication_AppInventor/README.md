@@ -20,4 +20,6 @@ where Measured Power is also known as the 1 Meter RSSI.
 
 So, if the application detect a device with RSSI is less than (-73) will notify you to keep 1.5 metres away
 
+```
 Distance for RSSI -73 = 10 ^ ((-69 – (-73))/(10 * 2)) = 1.5 meter
+```
