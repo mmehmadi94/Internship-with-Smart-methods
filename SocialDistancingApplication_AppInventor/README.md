@@ -12,9 +12,9 @@ The application uses Bluetooth LE, to scan nearby devices, and with RSSI, you ca
 We can calculate the estimated distance between my device and others using RSSI.
 
 Formula
-
+```
 Distance = 10 ^ ((Measured Power – RSSI)/(10 * N))
-
+```
 where Measured Power is also known as the 1 Meter RSSI.
 
 
