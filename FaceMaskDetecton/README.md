@@ -22,7 +22,7 @@ This dataset used consists of __3835 images__ belonging to two classes:
 *	__with_mask: 1916 images__
 *	__without_mask: 1930 images__
 
-##Installation
+## Installation
 1. Clone the repo
 ```
 $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
