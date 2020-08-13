@@ -4,10 +4,10 @@ Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learni
 
 
 <p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/mainUI.png" width="600" height="500"></p>
-<p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/pic1.jpeg" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/resultImage.png" width="700" height="400"></p>
 
 
-## Tech/framework used
+## :warning: Tech/framework used
 
 - [OpenCV](https://opencv.org/)
 - [Caffe-based face detector](https://caffe.berkeleyvision.org/)
@@ -16,13 +16,13 @@ Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learni
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
 
-## Dataset
+## :file_folder: Dataset
 
 This dataset used consists of __3835 images__ belonging to two classes:
 *	__with_mask: 1916 images__
 *	__without_mask: 1930 images__
 
-##Installation
+## Installation
 1. Clone the repo
 ```
 $ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
