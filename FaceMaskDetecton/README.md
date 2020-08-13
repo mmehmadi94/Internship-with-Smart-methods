@@ -3,7 +3,7 @@
 Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.
 
 
-<p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/mainUI.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/mainUI.png"></p>
 <p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/pic1.jpeg" width="700" height="400"></p>
 
 
