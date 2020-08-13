@@ -1,11 +1,11 @@
-<h1 align="center">Face Mask Detection</h1>
+<h1 align="center">Face Mask Detection | مراقب ارتداء الكمامة</h1>
 
 Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts in order to detect face masks in static images as well as in real-time video streams.
 
-<p align="center"><img src="https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/Readme_images/Screen%20Shot%202020-05-14%20at%208.49.06%20PM.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/pic1.jpeg" width="700" height="400"></p>
 
 
-## :warning: Tech/framework used
+## Tech/framework used
 
 - [OpenCV](https://opencv.org/)
 - [Caffe-based face detector](https://caffe.berkeleyvision.org/)
@@ -14,11 +14,11 @@ Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learni
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
 
-## :file_folder: Dataset
+## Dataset
 
 This dataset used consists of __3835 images__ belonging to two classes:
 *	__with_mask: 1916 images__
-*	__without_mask: 1919 images__
+*	__without_mask: 1930 images__
 
 ##Installation
 1. Clone the repo
