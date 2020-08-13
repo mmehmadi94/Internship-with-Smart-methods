@@ -7,7 +7,7 @@ Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learni
 <p align="center"><img src="https://github.com/mmehmadi94/Internship-with-Smart-methods/blob/master/FaceMaskDetecton/images/resultImage.png" width="700" height="400"></p>
 
 
-## Tech/framework used
+## :warning: Tech/framework used
 
 - [OpenCV](https://opencv.org/)
 - [Caffe-based face detector](https://caffe.berkeleyvision.org/)
