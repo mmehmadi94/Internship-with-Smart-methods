@@ -23,10 +23,7 @@ This dataset used consists of __3835 images__ belonging to two classes:
 *	__without_mask: 1930 images__
 
 ## Installation
-1. Clone the repo
-```
-$ git clone https://github.com/chandrikadeb7/Face-Mask-Detection.git
-```
+1. Clone this repository
 
 2. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 ```
