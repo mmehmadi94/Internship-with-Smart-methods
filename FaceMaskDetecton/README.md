@@ -16,7 +16,7 @@ Face Mask Detection system built with OpenCV, Keras/TensorFlow using Deep Learni
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
 
 
-## Dataset
+## :file_folder: Dataset
 
 This dataset used consists of __3835 images__ belonging to two classes:
 *	__with_mask: 1916 images__
